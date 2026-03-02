@@ -1,0 +1,12 @@
+clearml
+clearml-agent
+torch
+torchvision
+torchaudio
+nltk
+translators
+pillow
+matplotlib
+scipy
+numpy
+tqdm
