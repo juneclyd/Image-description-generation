@@ -225,36 +225,36 @@ Decoder получает признаки изображения и генери
 ```text
 Actual:    Two horses grazing on green grass next to a forest.
 Predicted: a brown horse standing on a lush green field .
-<img width="330" height="290" alt="image" src="https://github.com/user-attachments/assets/117776ad-4298-4f45-85bc-9f5f2824ddeb" />
+
 
 ```
+<img width="330" height="290" alt="image" src="https://github.com/user-attachments/assets/117776ad-4298-4f45-85bc-9f5f2824ddeb" />
 
 Пример 2:
 
 ```text
 Actual:    four boats with people carrying lots of bananas and other foods
 Predicted: people are holding a bunch of bananas 
-<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/a52d3d65-8afd-4e90-87f6-99c9394c7a3c" />
+
 
 ```
+<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/a52d3d65-8afd-4e90-87f6-99c9394c7a3c" />
 
 Пример 3:
 
 ```text
 Actual:    A plate with glazed donuts and donuts holes on it.
 Predicted: a bunch of doughnuts that are on a plate .
-<img width="330" height="216" alt="image" src="https://github.com/user-attachments/assets/06b7a8c6-31f8-465d-8817-e7e3edddc9b6" />
-
 ```
+<img width="330" height="216" alt="image" src="https://github.com/user-attachments/assets/06b7a8c6-31f8-465d-8817-e7e3edddc9b6" />
 
 Пример 4:
 
 ```text
 Actual:    A b=very large robust giraffe eating leaves from trees
 Predicted: a giraffe standing in a tall tree branch .
-<img width="330" height="311" alt="image" src="https://github.com/user-attachments/assets/7dbac6f0-6c25-40d5-8328-0d5d363dc887" />
-
 ```
+<img width="330" height="311" alt="image" src="https://github.com/user-attachments/assets/7dbac6f0-6c25-40d5-8328-0d5d363dc887" />
 
 ## Итоговые выводы
 
